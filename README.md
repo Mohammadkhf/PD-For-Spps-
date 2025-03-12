@@ -14,7 +14,8 @@ This repository presents different versions of our ALPD method on two main probl
       - ALPD_quad_obj_quad_cons: ALPD method without linearization in dual
       - ALPD_inexact_lg_quad_obj_quad_cons: Inecaxt ALPD method with linearization in dual
       - ALPD_quad_obj_quad_cons_lg: ALPD method with linearization in dual
-  **For for information see [our paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HA-GlnkAAAAJ&citation_for_view=HA-GlnkAAAAJ:9yKSN-GCB0IC)** 
+      - 
+  **For information see [our paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HA-GlnkAAAAJ&citation_for_view=HA-GlnkAAAAJ:9yKSN-GCB0IC)** 
    
 
 ##  Installation
